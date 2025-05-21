@@ -1,0 +1,31 @@
+SaleID,SaleDate,ProductName,Category,CustomerName,Region,Quantity,TotalAmount
+1,1/1/2024,Laptop,Electronics,John Doe,North,2,1500
+2,1/2/2024,Smartphone,Electronics,Jane Smith,South,1,500
+3,1/3/2024,TV,Electronics,Alice Johnson,East,1,1200
+4,1/4/2024,Washing Machine,Appliances,Bob Brown,West,,900
+5,1/5/2024,Refrigerator,Appliances,Charlie Davis,Central,1,1100
+6,1/6/2024,Microwave,Appliances,Diana Evans,North-East,2,800
+7,1/7/2024,Table,Furniture,Edward Wilson,North-West,2,400
+8,1/8/2024,Chair,Furniture,Fiona Carter,South-East,,240
+9,1/9/2024,Sofa,Furniture,George Harris,South-West,1,600
+10,1/10/2024,Lamp,Furniture,Hannah Clark,Metro,2,160
+11,1/11/2024,Headphones,Accessories,Ian Lewis,Urban,2,200
+12,1/12/2024,Keyboard,Accessories,Jack Lee,Rural,3,150
+13,1/13/2024,Mouse,Accessories,Kelly Walker,Suburban,3,120
+14,1/14/2024,Monitor,Electronics,Leo Young,Industrial,2,600
+15,1/15/2024,Fan,Appliances,Mona Allen,Coastal,2,140
+16,1/16/2024,Heater,Appliances,Nathan Hall,Inland,2,180
+17,1/17/2024,Printer,Electronics,Olivia Scott,Highlands,2,400
+18,1/18/2024,Speaker,Electronics,Paul Adams,Lowlands,2,300
+19,1/19/2024,Bed,Furniture,Quincy Baker,Forest,1,800
+20,1/20/2024,Curtains,Furniture,Rachel Perez,Desert,2,120
+21,1/21/2024,Iron,Appliances,Steve Roberts,Mountain,2,100
+22,1/22/2024,Toaster,Appliances,Tina Turner,Plains,2,90
+23,1/23/2024,Juicer,Appliances,Uma Phillips,Valley,2,140
+24,1/24/2024,Camera,Electronics,Victor King,Island,2,1300
+25,1/25/2024,Router,Electronics,Wendy Morris,Harbor,1,100
+26,1/26/2024,Notebook,Accessories,Xavier Rogers,Lake,3,30
+27,1/27/2024,Pen,Accessories,Yvonne Bell,Hill,3,
+28,1/28/2024,Pencil,Accessories,Zack Reed,Bay,5,
+29,1/29/2024,Shelf,Furniture,Amy Cook,Glacier,2,300
+30,1/30/2024,Drawer,Furniture,Brian Ward,Tundra,,360
